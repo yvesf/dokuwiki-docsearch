@@ -1,6 +1,6 @@
 base    docsearch
-author  Dominik Eckelmann
-email 	dokuwiki@cosmocode.de
+author  Dominik Eckelmann, Yves Fischer
+email 	dokuwiki@cosmocode.de, yvesf-git@xapek.org
 date 	2010-01-12
 name 	DocSearch
 desc 	Extends the default search and appends a search through uploaded documents files
